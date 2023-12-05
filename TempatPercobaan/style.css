@@ -1,0 +1,19 @@
+.tag {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #3498db;
+    color: #fff;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#add-tag-button {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #27ae60;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
